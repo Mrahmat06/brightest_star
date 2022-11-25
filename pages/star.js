@@ -9,7 +9,7 @@ export default function Faq() {
     <div>
       <Meta title="Astronomy Brighest Star " />
       <Header />
-<List />
+
       <Navbar />
       <Footer />
     </div>

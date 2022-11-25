@@ -43,7 +43,7 @@ export default function Home() {
             </p>
           </div>
           <Link
-            href="/gamelist"
+            href="/star"
             class="mt-3 text-indigo-500 inline-flex items-center "
           >
             Back
