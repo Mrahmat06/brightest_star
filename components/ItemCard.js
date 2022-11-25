@@ -16,10 +16,10 @@ export default function ItemCard(props) {
           },
         }}
       >
-        <h2 class="text-xl font-medium title-font text-gray-900 mt-5 text-white hover:text-violet-700">
+        <h2 class="text-xl font-medium title-font text-slate-200 mt-5 text-white hover:text-violet-700">
           {props.data.name}
         </h2>
-        <p class="text-base leading-relaxed mt-2 text-slate-200">
+        <p class="text-base leading-relaxed mt-2 text-gray-500">
           {props.data.link}
         </p>
       </Link>
