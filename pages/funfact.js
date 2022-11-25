@@ -10,7 +10,7 @@ import gemini from "../public/assets/gemini.jpg";
 export default function Tools() {
   return (
     <div>
-      <Meta title="9 BRIGHEST STAR IN ASTRONOMY" />
+      <Meta title="4 Star Funfact" />
       <Header />
       <section class="text-gray-600 bg-black body-font">
   <div class="container px-5 py-24 mx-auto">

@@ -7,7 +7,7 @@ import Navbar from "../components/Navbar";
 export default function Home() {
   return (
     <div>
-      <Meta title="GameLib Game Enjoyer" />
+      <Meta title="Brightest Star" />
 
       <Header />
       <Hero />
