@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import warframe from "../public/assets/warframe.jpg";
 import Link from "next/link";
 import matahari from '../public/assets/matahari.jpg'
 

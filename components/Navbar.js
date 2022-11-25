@@ -8,13 +8,13 @@ export default function Navbar() {
         <Link href="/" class="mr-5">
           <div className="ml-2">
           </div>
-          <p className="hover:text-violet-700 text-slate-200 font-bold">Home</p>
+          <p className="hover:text-amber-400 text-slate-200 font-bold">Home</p>
         </Link>
         <Link href="/star" class="mr-5 ">
           <div className="ml-3">
 
           </div>
-          <p className="hover:text-violet-700 text-slate-200 font-bold">
+          <p className="hover:text-amber-400 text-slate-200 font-bold">
             Star
           </p>
         </Link>
@@ -22,7 +22,7 @@ export default function Navbar() {
           <div className="ml-10">
 
           </div>
-          <p className="hover:text-violet-700 text-slate-200 font-bold">
+          <p className="hover:text-amber-400 text-slate-200 font-bold">
             Fun Fact
           </p>
         </Link>
@@ -30,7 +30,7 @@ export default function Navbar() {
           <div className="ml-3">
 
           </div>
-          <p className="hover:text-violet-700 text-slate-200 font-bold">
+          <p className="hover:text-amber-400 text-slate-200 font-bold">
             About
           </p>
         </Link>

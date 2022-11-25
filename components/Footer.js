@@ -1,6 +1,4 @@
-import Link from "next/link";
-import Image from "next/image";
-import controller from "../public/assets/controller.webp";
+
 
 export default function Footer() {
   return (
