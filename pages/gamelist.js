@@ -1,16 +1,15 @@
 import Header from "../components/Header";
 import Meta from "../components/Meta";
 import Footer from "../components/Footer";
-import Hero from "../components/Hero";
+import List from "../components/List";
 import Navbar from "../components/Navbar";
 
-export default function Home() {
+export default function Faq() {
   return (
     <div>
-      <Meta title="GameLib Game Enjoyer" />
-
+      <Meta title="Astronomy Brighest Star " />
       <Header />
-      <Hero />
+<List />
       <Navbar />
       <Footer />
     </div>
