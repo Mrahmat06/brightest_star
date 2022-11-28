@@ -18,7 +18,7 @@ export default function Home() {
 
   return (
     <div>
-      <Meta title="GameLib : Detail" />
+      <Meta title="Brightest Star : Detail" />
 
       <Header />
 
